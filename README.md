@@ -3,4 +3,4 @@
 - 🌱 I’m currently completing mt Computer Science degree
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 You can reach me at andrea_4991@hotmail.it
-- ⚡ Fun fact: Giraffes are 30 times more likely to get hit by lightning than people
+- ⚡ Fun fact: The Fibonacci Sequence can approximately convert miles into kilometers
